@@ -223,7 +223,7 @@
                                <i class="fa fa-clock"></i>
                             </div>
                             <div class="squareContent">
-                              <h2 class="counter" data-count="4">0</h2>
+                              <h2 class="counter" data-count="2">0</h2>
                               <h3>Years Experience</h3>
                             </div>
                         </div>
